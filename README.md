@@ -8,9 +8,15 @@ All subsystems were designed in KiCad and independently validated. Schematics, l
 
 ## 📷 PCB Images
 
-| Front | Back | KiCad 3D View |
-| :---: | :---: | :---: |
-| ![Front](pcb_front.jpeg) | ![Back](pcb_back.jpeg) | ![3D View](KICAD_3D.png) |
+| Front | Back | 
+| :---: | :---: |
+| ![Front](pcb_front.jpeg) | ![Back](pcb_back.jpeg) | 
+
+---
+
+| KiCad View |
+| :---: |
+| ![3D View](KICAD_3D.png) |
 
 ---
 
