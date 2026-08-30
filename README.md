@@ -19,11 +19,9 @@ All subsystems were designed in KiCad and independently validated. Schematics, l
 | Component | Description |
 | :--- | :--- |
 | **ESP32-WROOM** | Main microcontroller (WiFi + BLE) |
-| **GSM Module** | SIM800/SIM7000 for cellular connectivity |
-| **BMS** | Overcharge, over-discharge, and short-circuit protection |
-| **Charging Circuit** | TP4056-based Li-Po charging |
-| **Display Interface** | SPI/Parallel TFT/LCD (display TBD) |
-| **Power Management** | 3.3V LDO + 4V boost for GSM |
+| **GSM Module** | Quectel M65 module |
+| **Charging Circuit** | BQ Chip |
+| **Display Interface** | SPI for display and I2C for charhing |
 
 ---
 
